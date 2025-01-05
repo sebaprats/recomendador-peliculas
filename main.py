@@ -13,7 +13,8 @@ app.title = "Funciones API"
 
 # Lectura de dataset
 # ruta_csv = (r"C:\Users\User\Documents\Henry\DataScience\Primer_Proyecto\dataset\movies_dataset_produccion.csv", low_memory=False)
-df = pd.read_csv(r"C:\Users\User\Documents\Henry\DataScience\Primer_Proyecto\dataset\movies_dataset_produccion.csv", low_memory=False)
+df = pd.read_csv("dataset/movies_dataset_produccion.csv")
+
 
 
 # Primera funcion
