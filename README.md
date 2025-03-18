@@ -1,6 +1,6 @@
-PROYECTO INDIVIDUAL 1 – SISTEMA DE RECOMENDACIÓN DE PELÍCULAS
+# SISTEMA DE RECOMENDACIÓN DE PELÍCULAS (PROYECTO HENRY)
 
-1- OBJETIVO
+1:1 OBJETIVO
  
 Ingresada una película de habla hispana por parte del usuario, creé un sistema de recomendación de otras películas cuyo idioma original también es el español. La decisión de restringir la base a las películas en español se debió a las sugerencias respecto de no trabajar con una base muy grande. 
 
