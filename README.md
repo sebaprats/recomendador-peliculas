@@ -1,12 +1,10 @@
 # SISTEMA DE RECOMENDACIÓN DE PELÍCULAS (PROYECTO HENRY)
 
-1:1 OBJETIVO
+1️⃣ OBJETIVO
  
-Ingresada una película de habla hispana por parte del usuario, creé un sistema de recomendación de otras películas cuyo idioma original también es el español. La decisión de restringir la base a las películas en español se debió a las sugerencias respecto de no trabajar con una base muy grande. 
+Ingresada una película de habla hispana por parte del usuario, creé un sistema de recomendación de otras películas cuyo idioma original también es el español.
 
-La intención original era que la recomendación de similitud se basara en muchas variables, entre ellas actores/actrices o director. Por motivos que detallo más adelante, se limitó a género de la película, la calificación, las palabras en común de la reseña y el país.
-
-
+https://recomendador-de-peliculas-fast-api-y.onrender.com/docs
 2- EXPLORACIÓN Y LIMPIEZA DE DATOS
 
 Paso 1:
